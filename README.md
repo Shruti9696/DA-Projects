@@ -13,5 +13,7 @@ Trend Analysis: Tracked and visualized attrition rates over time, highlighting s
 Results:
 
 Improved Decision-Making: Enabled more informed decision-making by providing actionable insights into employee turnover.
+
 Time Savings: Reduced the time required to make meaningful decisions by 40%.
+
 Informed Strategy: The insights helped the HR team implement targeted retention strategies and improve overall workforce management.
